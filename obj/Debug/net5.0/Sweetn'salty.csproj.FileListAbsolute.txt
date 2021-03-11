@@ -1,0 +1,15 @@
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/Sweetn'salty.deps.json
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/Sweetn'salty.runtimeconfig.json
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/Sweetn'salty.runtimeconfig.dev.json
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/Sweetn'salty.dll
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/ref/Sweetn'salty.dll
+/Users/mitzilamyles/revature/projects/Sweetn'salty/bin/Debug/net5.0/Sweetn'salty.pdb
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.csprojAssemblyReference.cache
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.AssemblyInfoInputs.cache
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.AssemblyInfo.cs
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.csproj.CoreCompileInputs.cache
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.dll
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/ref/Sweetn'salty.dll
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.pdb
+/Users/mitzilamyles/revature/projects/Sweetn'salty/obj/Debug/net5.0/Sweetn'salty.genruntimeconfig.cache
